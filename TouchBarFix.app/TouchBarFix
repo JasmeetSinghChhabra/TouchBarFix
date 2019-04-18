@@ -1,0 +1,5 @@
+#!/bin/bash
+# My first script
+
+echo "Killed Touchbar"
+echo "zzzz" | sudo -S pkill TouchBarServer
